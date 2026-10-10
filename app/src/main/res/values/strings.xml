@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoxyVPN</string>
+    <string name="qs_tile_label">FoxyVPN</string>
+    <string name="qs_tile_description">Turn FoxyVPN on or off</string>
+</resources>
